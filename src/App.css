@@ -13,7 +13,11 @@
   #root {
     height: 100%;
   }
-  
+  #login_image{
+    height: 420px;
+width: 620px;
+margin-top: calc(50% - 105px);
+  }
   .auth__form-container {
     min-height: 100vh;
     display: flex;
