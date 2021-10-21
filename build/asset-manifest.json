@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb20d7f7.chunk.css",
-    "main.js": "/static/js/main.296122a6.chunk.js",
-    "main.js.map": "/static/js/main.296122a6.chunk.js.map",
+    "main.css": "/static/css/main.82ceb6f8.chunk.css",
+    "main.js": "/static/js/main.394a7c21.chunk.js",
+    "main.js.map": "/static/js/main.394a7c21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.89fe5855.js",
     "runtime-main.js.map": "/static/js/runtime-main.89fe5855.js.map",
     "static/css/2.b0879137.chunk.css": "/static/css/2.b0879137.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/5.f0d05011.chunk.js.map": "/static/js/5.f0d05011.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b0879137.chunk.css.map": "/static/css/2.b0879137.chunk.css.map",
-    "static/css/main.cb20d7f7.chunk.css.map": "/static/css/main.cb20d7f7.chunk.css.map",
+    "static/css/main.82ceb6f8.chunk.css.map": "/static/css/main.82ceb6f8.chunk.css.map",
     "static/js/2.423126eb.chunk.js.LICENSE.txt": "/static/js/2.423126eb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/NotoColorEmoji-flags.148141ac.woff2",
     "static/media/signup.f535f5e2.jpg": "/static/media/signup.f535f5e2.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.89fe5855.js",
     "static/css/2.b0879137.chunk.css",
     "static/js/2.423126eb.chunk.js",
-    "static/css/main.cb20d7f7.chunk.css",
-    "static/js/main.296122a6.chunk.js"
+    "static/css/main.82ceb6f8.chunk.css",
+    "static/js/main.394a7c21.chunk.js"
   ]
 }
