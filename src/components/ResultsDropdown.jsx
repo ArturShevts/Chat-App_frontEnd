@@ -61,7 +61,7 @@ const ResultsDropdown = ({ teamChannels, directChannels, focusedId, loading, set
 
   return (
     <div className='channel-search__results'>
-      <p className='channel-search__results-header'>Channels</p>
+      <p className='channel-search__results-header'>Projects</p>
       {loading && !teamChannels.length && (
         <p className='channel-search__results-header'>
           <i>Loading...</i>

@@ -46,7 +46,7 @@ const EditChannel = ({ setIsEditing }) => {
     return (
         <div className="edit-channel__container">
             <div className="edit-channel__header">
-                <p>Edit Channel</p>
+                <p>Edit Project</p>
                 <CloseCreateChannel setIsEditing={setIsEditing} />
             </div>
             <ChannelNameInput channelName={channelName} setChannelName={setChannelName} />
